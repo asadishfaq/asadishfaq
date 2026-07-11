@@ -1,19 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Asad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20MERN%20Full%20Stack%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:203A43,50:2C5364,75:0F4C75,100:1B262C&height=260&section=header&text=Muhammad%20Asad&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Senior%20MERN%20Full%20Stack%20Engineer%20%E2%80%A2%20React%20%7C%20Next.js%20%7C%20Node.js&descAlignY=53&descSize=17&stroke=ffffff&strokeWidth=0.3" width="100%"/>
 
-<a href="https://muhammad-asad-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=React.js+%7C+Next.js+%7C+Node.js+Engineer;Building+scalable+enterprise+web+platforms;8%2B+years+of+MERN+%26+cloud+experience;Available+for+senior+roles+%26+consulting&font=Fira+Code&center=true&width=560&height=45&color=2C5364&size=22&vCenter=true&pause=1200"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hey%2C+I'm+Asad+%E2%80%94+welcome+to+my+profile!;%F0%9F%9A%80+Crafting+scalable+MERN+%26+cloud+platforms;%E2%9C%A8+8%2B+years+turning+ideas+into+products;%F0%9F%93%A9+Let's+build+something+great+together&font=Fira+Code&center=true&width=650&height=50&color=2C5364&size=23&vCenter=true&pause=1300&duration=3000"/>
+
+<br/>
 
 <p>
-  <a href="https://muhammad-asad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-05060a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-asad-209794178/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:asadishfaq100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+923008189126"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://muhammad-asad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-asad-209794178/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:asadishfaq100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="tel:+923008189126"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=asadishfaq&style=flat-square&color=2C5364&label=Profile+Views" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=asadishfaq&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS" />&nbsp;
+  <img src="https://img.shields.io/badge/📍_Lahore,_Pakistan-1B262C?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/Status-Available_for_Hire-2ecc71?style=for-the-badge" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F4C75&height=4&width=900" />
 
 </div>
 
@@ -191,13 +197,26 @@ To activate this, add the workflow file provided separately (snake.yml) to
 
 <div align="center">
 
-## 📫 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B262C,50:2C5364,100:0F4C75&height=4&width=900" />
 
-<a href="https://muhammad-asad-portfolio.vercel.app/contact"><img src="https://img.shields.io/badge/Let's%20Talk-05060a?style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/muhammad-asad-209794178/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## 📫 Let's Build Something Great Together
 
-<sub>Lahore, Pakistan 🇵🇰 &nbsp;|&nbsp; Available for senior MERN / React / Node roles & consulting</sub>
+<img src="https://readme-typing-svg.demolab.com/?lines=Open+to+senior+MERN+%2F+React+%2F+Node+roles;Available+for+freelance+%26+consulting+work;Always+happy+to+talk+architecture+%26+scale!&font=Fira+Code&center=true&width=600&height=40&color=2C5364&size=18&vCenter=true&pause=1500"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+<br/>
+
+<a href="https://muhammad-asad-portfolio.vercel.app/contact"><img src="https://img.shields.io/badge/💬_Let's_Talk-0F2027?style=for-the-badge" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-asad-209794178/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:asadishfaq100@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<sub>📍 Lahore, Pakistan 🇵🇰 &nbsp;•&nbsp; 8+ years in MERN &amp; cloud engineering &nbsp;•&nbsp; Built with ❤️ and a lot of ☕</sub>
+
+<br/>
+
+**"Good code is its own best documentation."** — thanks for stopping by! ⭐ Star a repo if something here helps you.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C75,25:2C5364,50:203A43,75:0F2027,100:1B262C&height=180&section=footer&animation=twinkling" width="100%"/>
 
 </div>
