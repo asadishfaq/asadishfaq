@@ -1,122 +1,173 @@
-<h1 align="center">Hi, I'm Muhammad Asad 👋</h1>
-<h3 align="center">Senior MERN Full Stack Engineer | React.js • Next.js • Node.js • AWS/Azure</h3>
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Asad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20MERN%20Full%20Stack%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+
+<a href="https://muhammad-asad-portfolio.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com/?lines=React.js+%7C+Next.js+%7C+Node.js+Engineer;Building+scalable+enterprise+web+platforms;8%2B+years+of+MERN+%26+cloud+experience;Available+for+senior+roles+%26+consulting&font=Fira+Code&center=true&width=560&height=45&color=2C5364&size=22&vCenter=true&pause=1200"/>
+</a>
+
+<p>
   <a href="https://muhammad-asad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-05060a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammad-asad-209794178/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:asadishfaq100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+923008189126"><img src="https://img.shields.io/badge/Phone-+92%20300%208189126-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="tel:+923008189126"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=asadishfaq&style=flat-square&color=2C5364&label=Profile+Views" />
 
-### 🚀 About Me
+</div>
 
-I'm a results-driven **MERN Full Stack Developer** based in Lahore, Pakistan, with **8+ years** of experience designing, developing, and deploying enterprise-scale web applications. I specialize in **React.js, Next.js, Node.js, Express.js, NestJS, MongoDB**, and cloud platforms including **AWS** and **Azure**.
+<br/>
 
-- 🏗️ Proven expertise in **architecting scalable systems** and leading cross-functional engineering teams
-- ⚡ Delivered secure, high-traffic solutions across **finance, real estate, legal-tech, and enterprise workflow** domains
-- 👥 Currently leading a team of **12 developers** at Nextbridge Ltd.
-- 📍 Available for senior MERN / React / Node roles & consulting
+## 🚀 About Me
 
----
+I'm a results-driven **MERN Full Stack Developer** based in Lahore, Pakistan, with **8+ years** of experience designing, developing, and deploying enterprise-scale web applications using **React.js, Next.js, Node.js, Express.js, NestJS, MongoDB**, and cloud platforms including **AWS** and **Azure**.
 
-### 💼 Experience
+```yaml
+name: Muhammad Asad
+role: Senior MERN Full Stack Engineer
+location: Lahore, Pakistan
+focus: [Scalable Architecture, Performance Optimization, Team Leadership]
+domains: [Finance, Real Estate, Legal-Tech, Enterprise Workflow]
+status: Available for senior MERN / React / Node roles & consulting
+```
 
-| Role | Company | Duration |
-|---|---|---|
-| Senior MERN Engineer | **Nextbridge Ltd.** | Jul 2024 – Present |
-| Senior MERN Stack Developer | **Ropstam Solutions** | Mar 2022 – Jun 2024 |
-| Full Stack Software Engineer | **ALEC, Dubai** | Jan 2020 – Feb 2022 |
-| MERN Stack Developer | **Aquila360** | Jan 2018 – Dec 2019 |
-| Associate Software Engineer | **Aquila360** | Jan 2016 – Dec 2017 |
+- 🏗️ Proven expertise **architecting scalable systems** and leading cross-functional engineering teams
+- ⚡ Delivered secure, high-traffic solutions across **finance, real estate, legal-tech & enterprise workflow** domains
+- 👥 Leading a team of **12 developers** at Nextbridge Ltd.
+- 📍 Based in Lahore, Pakistan — open to remote & on-site opportunities
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 💼 Professional Experience
+
+<table width="100%">
+<tr><td width="35%"><b>Senior MERN Engineer</b><br/><sub>Nextbridge Ltd.</sub></td><td><sub>Jul 2024 – Present</sub></td></tr>
+<tr><td><b>Senior MERN Stack Developer</b><br/><sub>Ropstam Solutions</sub></td><td><sub>Mar 2022 – Jun 2024</sub></td></tr>
+<tr><td><b>Full Stack Software Engineer</b><br/><sub>ALEC, Dubai</sub></td><td><sub>Jan 2020 – Feb 2022</sub></td></tr>
+<tr><td><b>MERN Stack Developer</b><br/><sub>Aquila360</sub></td><td><sub>Jan 2018 – Dec 2019</sub></td></tr>
+<tr><td><b>Associate Software Engineer</b><br/><sub>Aquila360</sub></td><td><sub>Jan 2016 – Dec 2017</sub></td></tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,tailwind,bootstrap,html,css,js" />
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio" />
 
 **Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 
 **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,githubactions,nginx,linux" />
 
 **Testing & Tools**
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=jest,cypress,postman,jira,git,github" />
 
----
+</div>
 
-### 🌟 Featured Projects
+<br/>
 
-#### 🏢 [Real Estate Operations Platform](https://admin-devaccessrp.adgm.com/)
-React/Next.js and Node.js platform serving **50,000+ users**, reducing manual processing time by **45%** with a multi-view scheduling system handling 10,000+ events/month.
-`React` `Next.js` `Node.js` `TypeScript`
+## 🌟 Featured Projects
 
-#### 📄 [Dynamic eForms & Workflow Platform](https://forms.alec.ae/)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 [Real Estate Operations Platform](https://admin-devaccessrp.adgm.com/)
+React/Next.js and Node.js platform serving **50,000+ users**, reducing manual processing by **45%** with a multi-view scheduling system handling 10,000+ events/month.
+<br/>`React` `Next.js` `Node.js` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [Dynamic eForms & Workflow Platform](https://forms.alec.ae/)
 Configurable forms and workflow engine that cut approval cycles from **5 days to under 24 hours** for a regulated enterprise environment.
-`.NET` `React` `Cosmos DB` `Azure DevOps`
+<br/>`.NET` `React` `Cosmos DB` `Azure DevOps`
 
-#### 📈 [Haywood Trading Platform](https://haywoodtrader.com/)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 [Haywood Trading Platform](https://haywoodtrader.com/)
 Stock trading platform serving **25,000+ investors** with real-time dashboards and secure trading features, improving performance by **30%**.
-`React` `Real-time UI` `Secure Transactions`
+<br/>`React` `Real-time UI` `Secure Transactions`
 
-#### 🎪 [Social27 — Virtual & Hybrid Events Platform](https://www.social27.com/)
-Enterprise events platform used by Fortune 500 organizations — AI-powered event building, attendee matchmaking, and real-time analytics on an SOC 2/GDPR/PCI-DSS compliant stack.
-`React` `Next.js` `Node.js` `TypeScript` `Azure`
+</td>
+<td width="50%" valign="top">
 
-#### ⚖️ [AskJAQQ — Legal Q&A Marketplace](https://app.askjaqq.ca/sign-in)
+### 🎪 [Social27 — Events Platform](https://www.social27.com/)
+Enterprise virtual/hybrid events platform used by Fortune 500 organizations — AI-powered event building, attendee matchmaking, and real-time analytics on an SOC 2/GDPR/PCI-DSS compliant stack.
+<br/>`React` `Next.js` `Node.js` `Azure`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚖️ [AskJAQQ — Legal Q&A Marketplace](https://app.askjaqq.ca/sign-in)
 Platform connecting clients with verified lawyers via async Q&A, featuring subscription billing and a mobile app.
-`Next.js` `Node.js` `TypeScript` `PostgreSQL` `Stripe`
+<br/>`Next.js` `Node.js` `PostgreSQL` `Stripe`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📊 GitHub Stats
+### 🎓 Bachelor of Software Engineering
+COMSATS University Islamabad, Lahore Campus — Feb 2016
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asadishfaq&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadishfaq&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadishfaq&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
----
+## 📊 GitHub Analytics
 
-### 🎓 Education
-**Bachelor of Software Engineering** — COMSATS University Islamabad, Lahore Campus (Feb 2016)
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=asadishfaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadishfaq&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadishfaq&theme=tokyonight&hide_border=true" />
+</div>
 
-### 📫 Let's Connect
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadishfaq&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
 
-<p align="center">
-  <a href="https://muhammad-asad-portfolio.vercel.app/contact"><img src="https://img.shields.io/badge/Let's%20Talk-05060a?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-asad-209794178/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<!--
+🐍 Contribution Snake Animation
+To activate this, add the workflow file provided separately (snake.yml) to
+.github/workflows/ in this repo — GitHub Actions will generate the graph below.
+-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/asadishfaq/asadishfaq/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
-<p align="center"><i>Lahore, Pakistan 🇵🇰 &nbsp;|&nbsp; Available for senior MERN / React / Node roles & consulting</i></p>
+<br/>
+
+<div align="center">
+
+## 📫 Let's Connect
+
+<a href="https://muhammad-asad-portfolio.vercel.app/contact"><img src="https://img.shields.io/badge/Let's%20Talk-05060a?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/muhammad-asad-209794178/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<sub>Lahore, Pakistan 🇵🇰 &nbsp;|&nbsp; Available for senior MERN / React / Node roles & consulting</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
