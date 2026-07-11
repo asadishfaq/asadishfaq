@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=250&section=header&text=Muhammad%20Asad&fontSize=58&fontColor=38BDF8&animation=fadeIn&fontAlignY=32&desc=Senior%20MERN%20Full%20Stack%20Engineer&descAlignY=50&descSize=18&descColor=E2E8F0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&height=250&section=header&text=Muhammad%20Asad&fontSize=58&fontColor=D4AF37&animation=fadeIn&fontAlignY=32&desc=Senior%20MERN%20Full%20Stack%20Engineer&descAlignY=50&descSize=18&descColor=E8E8E8" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+enterprise+web+platforms;React.js+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+AWS+%2F+Azure;8%2B+years+turning+ideas+into+production+systems;Open+to+senior+roles+%26+consulting&font=Fira+Code&center=true&width=600&height=40&color=38BDF8&size=20&vCenter=true&pause=1500&duration=3000"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+enterprise+web+platforms;React.js+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+AWS+%2F+Azure;8%2B+years+turning+ideas+into+production+systems;Open+to+senior+roles+%26+consulting&font=Georgia&center=true&width=620&height=40&color=D4AF37&size=19&vCenter=true&pause=1500&duration=3000"/>
 
 <br/>
 
 <p>
-  <a href="https://muhammad-asad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-asad-209794178/"><img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0F172A" /></a>
-  <a href="mailto:asadishfaq100@gmail.com"><img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0F172A" /></a>
-  <a href="tel:+923008189126"><img src="https://img.shields.io/badge/WhatsApp-38BDF8?style=for-the-badge&logo=whatsapp&logoColor=0F172A" /></a>
+  <a href="https://muhammad-asad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=0D0D0D" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-asad-209794178/"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" /></a>
+  <a href="mailto:asadishfaq100@gmail.com"><img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=0D0D0D" /></a>
+  <a href="tel:+923008189126"><img src="https://img.shields.io/badge/WhatsApp-D4AF37?style=for-the-badge&logo=whatsapp&logoColor=0D0D0D" /></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=asadishfaq&style=flat-square&color=1E293B&label=PROFILE+VIEWS" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/📍-Lahore,_Pakistan-1E293B?style=flat-square" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Status-Available-1E293B?style=flat-square&labelColor=1E293B&color=22C55E" />
+  <img src="https://komarev.com/ghpvc/?username=asadishfaq&style=flat-square&color=1A1A1A&label=PROFILE+VIEWS" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/📍-Lahore,_Pakistan-1A1A1A?style=flat-square&labelColor=1A1A1A" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Status-Available-1A1A1A?style=flat-square&labelColor=1A1A1A&color=D4AF37" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E293B,100:334155&height=3&width=850" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:8A6D1F,100:D4AF37&height=2&width=850" />
 
 </div>
 
@@ -142,7 +142,7 @@ Platform connecting clients with verified lawyers via async Q&A, featuring subsc
 
 ## 🎓 Education
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E293B,100:334155&height=3&width=800" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:8A6D1F,100:D4AF37&height=2&width=800" />
 
 </div>
 
@@ -164,7 +164,7 @@ Platform connecting clients with verified lawyers via async Q&A, featuring subsc
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,50:1E293B,100:0F172A&height=3&width=800" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:8A6D1F,100:D4AF37&height=2&width=800" />
 </div>
 
 <br/>
@@ -172,16 +172,16 @@ Platform connecting clients with verified lawyers via async Q&A, featuring subsc
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=asadishfaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadishfaq&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=asadishfaq&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E8E8E8&icon_color=D4AF37" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadishfaq&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E8E8E8" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadishfaq&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadishfaq&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=8A6D1F" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadishfaq&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadishfaq&hide_border=true&bg_color=0D0D0D&color=D4AF37&line=D4AF37&point=E8E8E8" width="100%"/>
 </div>
 
 <!--
@@ -197,17 +197,17 @@ To activate this, add the workflow file provided separately (snake.yml) to
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,50:1E293B,100:0F172A&height=3&width=850" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:8A6D1F,100:D4AF37&height=2&width=850" />
 
 ## 📫 Let's Build Something Great Together
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Open+to+senior+MERN+%2F+React+%2F+Node+roles;Available+for+freelance+%26+consulting+work;Always+happy+to+talk+architecture+%26+scale!&font=Fira+Code&center=true&width=600&height=40&color=38BDF8&size=18&vCenter=true&pause=1500"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Open+to+senior+MERN+%2F+React+%2F+Node+roles;Available+for+freelance+%26+consulting+work;Always+happy+to+talk+architecture+%26+scale!&font=Georgia&center=true&width=600&height=40&color=D4AF37&size=18&vCenter=true&pause=1500"/>
 
 <br/>
 
-<a href="https://muhammad-asad-portfolio.vercel.app/contact"><img src="https://img.shields.io/badge/💬_Let's_Talk-38BDF8?style=for-the-badge&logoColor=0F172A" /></a>
-<a href="https://www.linkedin.com/in/muhammad-asad-209794178/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0F172A" /></a>
-<a href="mailto:asadishfaq100@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-38BDF8?style=for-the-badge&logo=gmail&logoColor=0F172A" /></a>
+<a href="https://muhammad-asad-portfolio.vercel.app/contact"><img src="https://img.shields.io/badge/💬_Let's_Talk-D4AF37?style=for-the-badge&logoColor=0D0D0D" /></a>
+<a href="https://www.linkedin.com/in/muhammad-asad-209794178/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" /></a>
+<a href="mailto:asadishfaq100@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-D4AF37?style=for-the-badge&logo=gmail&logoColor=0D0D0D" /></a>
 
 <br/><br/>
 
@@ -217,6 +217,6 @@ To activate this, add the workflow file provided separately (snake.yml) to
 
 **"Good code is its own best documentation."** — thanks for stopping by! ⭐ Star a repo if something here helps you.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=160&section=footer&fontColor=38BDF8&animation=fadeIn&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&height=160&section=footer&fontColor=D4AF37&animation=fadeIn&reversal=true" width="100%"/>
 
 </div>
