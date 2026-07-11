@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm a results-driven **MERN Full Stack Developer** based in Lahore, Pakistan, with **10+ years** of experience designing, developing, and deploying enterprise-scale web applications. I specialize in **React.js, Next.js, Node.js, Express.js, NestJS, MongoDB**, and cloud platforms including **AWS** and **Azure**.
+I'm a results-driven **MERN Full Stack Developer** based in Lahore, Pakistan, with **8+ years** of experience designing, developing, and deploying enterprise-scale web applications. I specialize in **React.js, Next.js, Node.js, Express.js, NestJS, MongoDB**, and cloud platforms including **AWS** and **Azure**.
 
 - 🏗️ Proven expertise in **architecting scalable systems** and leading cross-functional engineering teams
 - ⚡ Delivered secure, high-traffic solutions across **finance, real estate, legal-tech, and enterprise workflow** domains
