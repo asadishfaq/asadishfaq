@@ -124,12 +124,42 @@ Platform connecting clients with verified lawyers via async Q&A, featuring subsc
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Bachelor of Software Engineering
-COMSATS University Islamabad, Lahore Campus — Feb 2016
+&nbsp;
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+## 🎓 Education
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,50:203A43,100:0F2027&height=3&width=800" />
+
+</div>
+
+<table width="100%">
+<tr>
+<td align="center" width="15%">
+<h1>🎓</h1>
+</td>
+<td width="85%">
+
+**Bachelor of Software Engineering**
+<br/>
+<sub>🏫 COMSATS University Islamabad, Lahore Campus</sub>
+<br/>
+<sub>📅 Graduated February 2016</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&width=800" />
+</div>
 
 <br/>
 
