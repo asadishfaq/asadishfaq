@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Asad 👋</h1>
-<h3 align="center">Senior MERN Full Stack Architect | React.js • Next.js • Node.js • AWS/Azure</h3>
+<h3 align="center">Senior MERN Full Stack Engineer | React.js • Next.js • Node.js • AWS/Azure</h3>
 
 <p align="center">
   <a href="https://muhammad-asad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-05060a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -25,7 +25,7 @@ I'm a results-driven **MERN Full Stack Developer** based in Lahore, Pakistan, wi
 
 | Role | Company | Duration |
 |---|---|---|
-| Senior MERN Architect | **Nextbridge Ltd.** | Jul 2024 – Present |
+| Senior MERN Engineer | **Nextbridge Ltd.** | Jul 2024 – Present |
 | Senior MERN Stack Developer | **Ropstam Solutions** | Mar 2022 – Jun 2024 |
 | Full Stack Software Engineer | **ALEC, Dubai** | Jan 2020 – Feb 2022 |
 | MERN Stack Developer | **Aquila360** | Jan 2018 – Dec 2019 |
